@@ -18,6 +18,8 @@ node 16 or above
 
 - npm install
 
+- npx playwright install
+
 🚀 How to run
 
 - npm run test
