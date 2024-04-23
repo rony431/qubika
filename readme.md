@@ -21,4 +21,16 @@ npm run test
 npm run api
 npm run report
 
+
+├── Qubika
+│   ├── data-test
+        Includes all data used for automation
+│   ├── page-objects
+        Pages with methods and reusable selectors
+│   └── tests
+│       ├── e2e.spec.js
+        File with the solution for the scenarios proposed 
+├── package.json
+└── README.md
+
 execute npm run report to see report details
