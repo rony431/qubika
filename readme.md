@@ -2,35 +2,29 @@
 
 Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
 
+
 The following solution is trying to use random data with Fake.js and implementing calls to API in order to test both UI and integration test in order to understand the solution please take a look into the comments 
 
 ⚡ Usage
+
 using following node version recommended
 
 node 16 or above
 
 🔌 Installation
-git clone 
+- git clone https://github.com/rony431/qubika
 
-cd Qubika
+- cd Qubika
 
-npm install
+-npm install
 
 🚀 How to run
-npm run test
-npm run api
-npm run report
 
+- npm run test
+- npm run api
+- npm run report
 
-├── Qubika
-│   ├── data-test
-        Includes all data used for automation
-│   ├── page-objects
-        Pages with methods and reusable selectors
-│   └── tests
-│       ├── e2e.spec.js
-        File with the solution for the scenarios proposed 
-├── package.json
-└── README.md
 
 execute npm run report to see report details
+
+<img width="1430" alt="reportexample" src="https://github.com/rony431/qubika/assets/54337373/d579f48b-278a-405c-bf7a-556e25e8b99f">
