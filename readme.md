@@ -12,11 +12,11 @@ using following node version recommended
 node 16 or above
 
 🔌 Installation
-- git clone https://github.com/rony431/qubika
+- git clone [https://github.com/rony431/qubika](https://github.com/rony431/qubika.git)
 
 - cd Qubika
 
--npm install
+- npm install
 
 🚀 How to run
 
