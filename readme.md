@@ -15,7 +15,8 @@ npm install
 npm run test
 npm run api
 npm run report
-.
+
+
 ├── Qubika
 │   ├── data-test
         Includes all data used for automation
